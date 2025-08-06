@@ -1,9 +1,10 @@
 # Module 1: Foundations of NoOps Philosophy
 
 ## 1.1 What is NoOps? vs DevOps, SRE, AIOps
-- Explanation: ...
-- Key Differences: ...
-- Notes: ...
+- **Explanation:** NoOps = No manual operations. Full automation. Devs can deploy without involving Ops team.
+- **Key Differences:** Unlike DevOps, NoOps removes most human Ops tasks. SRE focuses on reliability; NoOps = invisible Ops.
+- **Notes:** AIOps uses AI/ML. SRE is Google-style reliability ops. NoOps = automation from start to finish.
+
 
 ## 1.2 The Evolution: SysAdmin → DevOps → NoOps
 - Timeline: ...
